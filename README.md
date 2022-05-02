@@ -1,2 +1,3 @@
-# alx-system_engineering-devops
+Practicing my scripting skills
 a series of projects
+Recon.sh : does recons
